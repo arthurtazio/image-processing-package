@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: image_processing
+Version: 0.0.2
+Summary: image-processing-package
+Home-page: https://github.com/tiemi/image-processing-package
+Author: Arthur Tazio
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.01
+
+# package_name
+
+Description. 
+The package IMAGE_PROCESSING is used to:
+    PROCESSING:
+
+	  - HISTOGRAM MATCHING
+	  - STRUCTURAL SIMILARY
+	  - RESIZE IMAGE
+	UTILS:
+	  - READ IMAGE
+	  - SAVE IMAGE
+	  - PLOT IMAGE
+	  - PLOT RESULT
+	  - PLOT HISTOGRAM
+	  
+
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install IMAGE_PROCESSING
+```
+
+## Author
+ARTHUR TAZIO 
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
